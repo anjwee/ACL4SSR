@@ -3,7 +3,7 @@
 # DOMAIN-KEYWORD,openai
 # DOMAIN-KEYWORD,anthropic
 # DOMAIN-KEYWORD,Claude
-# 域名后缀匹配
+# 域名后缀匹配 38
 DOMAIN,copilot.microsoft.com
 DOMAIN,a1.tktn.be
 DOMAIN,app-analytics-services.com
@@ -35,3 +35,5 @@ DOMAIN-SUFFIX,vulpes.one
 DOMAIN-SUFFIX,mozz.us
 DOMAIN-SUFFIX,conman.org
 DOMAIN-SUFFIX,bortzmeyer.org
+DOMAIN-SUFFIX,ophoenix1a.turn.livekit.cloud
+DOMAIN-SUFFIX,webrtc.chatgpt.com
