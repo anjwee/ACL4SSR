@@ -1,6 +1,6 @@
 # 内容：OpenAi Bard anthropic
 # 域名关键字匹配
-# DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,openai
 # DOMAIN-KEYWORD,anthropic
 # DOMAIN-KEYWORD,Claude
 # 域名后缀匹配 40
@@ -38,3 +38,5 @@ DOMAIN-SUFFIX,bortzmeyer.org
 DOMAIN-SUFFIX,ophoenix1a.turn.livekit.cloud
 DOMAIN-SUFFIX,webrtc.chatgpt.com
 DOMAIN-SUFFIX,ab.chatgpt.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,api.x.ai
