@@ -3,7 +3,7 @@
 DOMAIN-KEYWORD,openai
 # DOMAIN-KEYWORD,anthropic
 # DOMAIN-KEYWORD,Claude
-# 域名后缀匹配 42-60
+# 域名后缀匹配 43-60
 DOMAIN,copilot.microsoft.com
 DOMAIN,a1.tktn.be
 DOMAIN,app-analytics-services.com
