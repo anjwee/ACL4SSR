@@ -1,10 +1,8 @@
-# 域名后缀匹配 43-60
+# 域名后缀匹配
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.co
 DOMAIN-SUFFIX,cm.bilibili.com
 DOMAIN-SUFFIX,ali-edge.biliapi.net
-DOMAIN-SUFFIX,api.bilibili.com
-DOMAIN-SUFFIX,www.bilibili.com
 DOMAIN-SUFFIX,api.bilibili.com
 DOMAIN-SUFFIX,httpdns.bilivideo.com
 DOMAIN-SUFFIX,grpc.biliapi.net
