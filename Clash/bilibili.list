@@ -1,21 +1,7 @@
-# 域名关键字匹配
-DOMAIN-KEYWORD,bili
-# 域名后缀匹配
+# Bilibili 系列域名（精简版）
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.co
-DOMAIN-SUFFIX,cm.bilibili.com
-DOMAIN-SUFFIX,ali-edge.biliapi.net
-DOMAIN-SUFFIX,api.bilibili.com
-DOMAIN-SUFFIX,httpdns.bilivideo.com
-DOMAIN-SUFFIX,grpc.biliapi.net
-DOMAIN-SUFFIX,passport.bilibili.com
-DOMAIN-SUFFIX,app.bilibili.com
-DOMAIN-SUFFIX,broadcast.chat.bilibili.com
-DOMAIN-SUFFIX,pay.bilibili.com
-DOMAIN-SUFFIX,mall.bilibili.com
-DOMAIN-SUFFIX,member.bilibili.com
-DOMAIN-SUFFIX,api.live.bilibili.com
-DOMAIN-SUFFIX,api.vc.bilibili.com
-DOMAIN-SUFFIX,dataflow.biliapi.com
-DOMAIN-SUFFIX,line3-h5-mobile-api.biligame.com
-DOMAIN-SUFFIX,data.bilibili.com
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,biligame.com
