@@ -11,3 +11,5 @@ DOMAIN,pay.bilibili.com
 DOMAIN,app.bilibili.com
 DOMAIN,broadcast.chat.bilibili.com
 DOMAIN,passport.bilibili.com
+# 关键
+DOMAIN-KEYWORD,bilibili
