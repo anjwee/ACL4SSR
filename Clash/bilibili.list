@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,cm.bilibili.com
 DOMAIN-SUFFIX,ali-edge.biliapi.net
 DOMAIN-SUFFIX,api.bilibili.com
 DOMAIN-SUFFIX,www.bilibili.com
-DOMAIN-SUFFIX,api.bilibili.com:80
+DOMAIN-SUFFIX,api.bilibili.com
 DOMAIN-SUFFIX,httpdns.bilivideo.com
 DOMAIN-SUFFIX,grpc.biliapi.net
 DOMAIN-SUFFIX,passport.bilibili.com
