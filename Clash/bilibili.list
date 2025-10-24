@@ -12,5 +12,7 @@ DOMAIN-SUFFIX,pay.bilibili.com
 DOMAIN-SUFFIX,app.bilibili.com
 DOMAIN-SUFFIX,broadcast.chat.bilibili.com
 DOMAIN-SUFFIX,passport.bilibili.com
+DOMAIN-SUFFIX,dataflow.biliapi.com
+DOMAIN-SUFFIX,httpdns.bilivideo.com
 # 关键
 DOMAIN-KEYWORD,bilibili
